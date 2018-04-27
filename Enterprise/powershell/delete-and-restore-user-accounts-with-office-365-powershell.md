@@ -84,7 +84,7 @@ Remove-AzureADUser -ObjectID fabricec@litwareinc.com
 ```
 
 > [!NOTE]
-> The **-ObjectID** parameter in the **Remove-AzureAD** cmdlet accepts either the account name, also known as the User Principal Name, or the account's object ID.
+> The **-ObjectID** parameter in the **Remove-AzureADUser** cmdlet accepts either the account name, also known as the User Principal Name, or the account's object ID.
   
 To display the account name based on the user's name, use the following commands:
   
